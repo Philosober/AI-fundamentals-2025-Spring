@@ -27,7 +27,7 @@
 
 | 周数📆 | 日期🕣 | 内容📒                               |  主讲💂‍♂️  |                          本周任务 📌                          |                            课件📘                             |
 | :---: | :---: | ----------------------------------- | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   | 2.19  | Introduction and Intelligent Agents | Bin Yang | [Assignment1](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/master/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/master/lecture01/lec01.pdf) |
+|   1   | 2.19  | Introduction and Intelligent Agents | Bin Yang | [Assignment1](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture01/lec01.pdf) |
 |       |       |                                     |          |                                                              |                                                              |
 |       |       |                                     |          |                                                              |                                                              |
 |       |       |                                     |          |                                                              |                                                              |
