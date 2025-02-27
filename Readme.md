@@ -25,25 +25,25 @@
 ---
 
 
-| 周数📆 | 日期🕣 | 内容📒                               |  主讲💂‍♂️  |                          本周任务 📌                          |                            课件📘                             |
-| :---: | :---: | ----------------------------------- | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   1   | 2.19  | Introduction and Intelligent Agents | Bin Yang | [Assignment1](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture01/lec01.pdf) |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
-|       |       |                                     |          |                                                              |                                                              |
+| 周数📆 | 日期🕣 | 内容📒                                                        |  主讲💂‍♂️  |                          本周任务 📌                          |                            课件📘                             |
+| :---: | :---: | ------------------------------------------------------------ | :------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|  01   | 2.19  | Introduction and Intelligent Agents                          | Bin Yang | [Assignment1](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/Lab/Assignment_1/Assignment1.pdf) | [课件01](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture01/lec01.pdf) |
+|  02   | 2.26  | Problem Solving: Search                                      | Bin Yang | [Project01](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/Lab/Project1/Warm Up.pdf) | [课件02](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture02/lec02.pdf) |
+|  03   |       | Problem Solving: Informed Search<br /> and Search in Complex Environments | Bin Yang |                                                              | [课件03](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture03/lec03.pdf) |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
+|       |       |                                                              |          |                                                              |                                                              |
 
 ### 3、课程考核
 
