@@ -42,8 +42,8 @@
 |  13   | 5-14  | Linear Model                                                 | Yang Shu | [Project2](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/Lab/Project_2/Project%20Two.pdf) | [课件12](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture12/lec12.pdf) |
 |  14   | 5-21  | Tree Model & Intro-DL & MLP                                  | Yang Shu |                              \                               | [课件13](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture13/) |
 |  15   | 5-28  | CNN Model                                                    | Yang Shu |                              \                               | [课件14](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture14/) |
-|       |       |                                                              |          |                                                              |                                                              |
-|       |       |                                                              |          |                                                              |                                                              |
+|  16   |  6-4  | RNN&Transformer                                              | Yang Shu |                              \                               | [课件15](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture15/) |
+|  17   | 6-11  | Computer Vision                                              | Yang Shu |                              \                               | [课件16](https://github.com/Philosober/AI-fundamentals-2025-Spring/blob/main/lecture16/) |
 |       |       |                                                              |          |                                                              |                                                              |
 
 ### 3、课程考核
